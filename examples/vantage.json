@@ -1,0 +1,18 @@
+{
+  "inputUrl": "https://vantage.sh",
+  "blogUrl": "https://www.vantage.sh/blog/",
+  "blogPosts": [
+    "https://www.vantage.sh/blog/vantage-raises-21m-series-a",
+    "https://www.vantage.sh/blog",
+    "https://www.vantage.sh/blog/vantage-launches-new-relic-costs",
+    "https://www.vantage.sh/blog/vantage-launches-filter-by-resource",
+    "https://www.vantage.sh/blog/querying-aws-cost-data-duckdb",
+    "https://www.vantage.sh/blog/vantage-launches-mongodb-atlas-costs",
+    "https://www.vantage.sh/blog/vantage-launches-customizable-cost-reports",
+    "https://www.vantage.sh/blog/vantage-launches-autopilot-rds-elasticache-redshift-opensearch",
+    "https://www.vantage.sh/blog/vantage-launches-segments",
+    "https://www.vantage.sh/blog/vantage-launches-folders",
+    "https://www.vantage.sh/blog/vantage-launches-databricks-cost-support",
+    "https://www.vantage.sh/blog/page2/"
+  ]
+}
